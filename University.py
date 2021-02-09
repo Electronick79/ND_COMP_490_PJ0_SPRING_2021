@@ -1,5 +1,5 @@
 import unittest
-
+import requests
 
 class MyTestCase(unittest.TestCase):
     def test_something(self):
